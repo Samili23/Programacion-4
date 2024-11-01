@@ -118,15 +118,15 @@ public class Usuario {
     public String toString() {
         return "Usuario{" +
                 "id=" + id +
-                ", nombre='" + nombre + '\'' +
-                ", apellido='" + apellido + '\'' +
-                ", tipoDocumento='" + tipoDocumento + '\'' +
-                ", numeroDocumento='" + numeroDocumento + '\'' +
-                ", direccion='" + direccion + '\'' +
-                ", telefono='" + telefono + '\'' +
-                ", email='" + email + '\'' +
-                ", contraseña='" + contraseña + '\'' +
-                ", estadoActivo=" + estadoActivo +
+                ", Nombre='" + nombre + '\'' +
+                ", Apellido='" + apellido + '\'' +
+                ", TipoDocumento='" + tipoDocumento + '\'' +
+                ", NumeroDocumento='" + numeroDocumento + '\'' +
+                ", Direccion='" + direccion + '\'' +
+                ", Telefono='" + telefono + '\'' +
+                ", Email='" + email + '\'' +
+                ", Contraseña='" + contraseña + '\'' +
+                ", EstadoActivo=" + estadoActivo +
                 '}';
     }
 }
